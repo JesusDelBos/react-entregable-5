@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Home-card{
+    background-color: aqua;
+    margin: 3rem;
+}
+
+.App{
+    background-color: aqua;
+    margin: 3rem;
+}
+
+.Entrenador{
+    background-color: blue;
+    color: aquamarine;
+}
+
+.GetPokemons-list{
+    background-color: aquamarine;
+    display: flex;
+}
